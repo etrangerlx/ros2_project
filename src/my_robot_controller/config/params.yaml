@@ -1,0 +1,6 @@
+controller:
+  ros__parameters:
+    robot_name: diffbot
+    update_rate: 10
+    max_speed: 1.5
+    verbose: true
